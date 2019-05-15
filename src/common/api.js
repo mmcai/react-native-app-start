@@ -1,19 +1,5 @@
-// const API = 'http://47.110.120.55';
-// const API = '//fronts.zhanhaijingji.cn';
-// const API = 'http://test.zhanhaijingji.cn';
-// const API = 'http://test.zhanhaijingji.cn';
-// const API = 'http://192.168.2.121:8188';
-// const API = '';
-// const API = 'http://test.zhanhaijingji.cn';
-// const API = 'http://192.168.0.24:8087';
-// const API = 'https://snowtest.zhanhaijingji.cn';
-// const API = 'https://snow.zhanhaijingji.cn';
 /*富贵钱包测试*/
-const API = 'http://47.99.0.78';
-/*富贵钱包线上*/
-// const API = 'http://47.99.228.237/';
-// const API = 'http://47.99.111.217:8087';
-// "proxy": "http://test.zhanhaijingji.cn"
+const API = 'https://www.easy-mock.com/mock/5cdb712347cdea02cc1c7591/react';
 export default {
 
   /*登陆*/
