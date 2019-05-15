@@ -1,0 +1,7 @@
+[1218/160233.419:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[1219/162543.997:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[1225/114235.237:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[1227/180805.484:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[0103/114251.776:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作成功完成。 (0x0)
+[0321/145323.058:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0322/112332.123:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作成功完成。 (0x0)
